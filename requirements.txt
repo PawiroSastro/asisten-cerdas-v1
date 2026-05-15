@@ -1,0 +1,8 @@
+streamlit
+openai
+whisper-openai
+pytubefix
+python-docx
+reportlab
+streamlit-mermaid
+
